@@ -112,11 +112,11 @@ html {
 
 .btn-like--up {
   background-color: #00e268;
-  background-image: url("./img/like-up.png");
+  background-image: url("../img/like-up.png");
 }
 
 .btn-like--down {
   background-color: #ff5654;
-  background-image: url("./img/like-down.png");
+  background-image: url("../img/like-down.png");
 }
 </style>
